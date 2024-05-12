@@ -1,0 +1,94 @@
+dataset=cc, docnum=9, docid=2504, wordct=357
+
+[--- conv start ---]
+UserB: hello!
+UserA: Sup
+UserB: hey whoa that's cool well we could either end this chat or continue for more points up to you
+UserA: Haha matched twice I'm good to go for both
+UserB: WOOO nice this happens a lot at night
+UserA: At night? That you have two chats going on with the same person haha?
+UserB: LOL yeah like i keep getting the same person over and over again
+UserA: Yeah. Have you been on here for long?
+UserB: i just started like two days ago haha how about you?
+UserA: Haha I started the first day this round but maybe skip a few
+UserB: ahh wow how far are you in the leaderboards?
+UserA: Oh, top 10
+UserB: GEEEZ
+UserA: You?
+UserB: you're bound to get something cool then struggling in the 20s ahha how'd you hear about it?
+UserA: Um I think I got an email. I can't really remember Haha so are you really striving to get up there? I might lose it, I don't have as much time
+UserB: ahhh yeah I got an email way late in the game so i'm trying to just catch up I really wanna win something substantial yknow
+UserA: Haha what is substantial?
+UserB: not the truffles LOL i just read the prizes list last night and idk if I really just wanna be receiving truffles
+UserA: Haha yeah nice
+UserB: whoever is holding that #1 spot is so good
+UserA: No kidding. That's crazy
+UserB: maybe it's just one of the developers trying to get as many people going as possible
+UserA: Yeah maybe. Hopefully haha. It's intimidating
+UserB: it's a lil crazy that's for sure
+UserA: So do you have any hidden talents or powers?
+UserB: hmmm that's a good questin question
+
+[--- conv end ---]
+
+
+[--- row start ---]
+rowid 324, Topic_words
+[--- topic start ---]video games, Demi Lovato, Greatest Showman, United States, Black Panther, moon, philosophy 101, web development, Industrial design, Poli sci[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 324, Flan_topic
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 324, Flan_topic2
+[--- topic start ---]Science fiction[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 344, Topic_words
+[--- topic start ---]artificial intelligence, internet, Black Panther, Infinity War, psychology, Artificial Intelligence, Greatest Showman, Neuroscience, bank, seminary[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 344, Flan_topic
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 344, Flan_topic2
+[--- topic start ---]Black Panther[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 348, Topic_words
+[--- topic start ---]artificial intelligence, Black Panther, Infinity War, Artificial Intelligence, Brazil, Captain America, China, India, Iron Man, Lord of the Rings[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 348, Flan_topic
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 348, Flan_topic2
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 392, Topic_words
+[--- topic start ---]dating[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 392, Flan_topic
+[--- topic start ---][--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 392, Flan_topic2
+[--- topic start ---]Dating[--- topic end ---]
+[--- row end ---]
+

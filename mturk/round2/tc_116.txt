@@ -1,0 +1,88 @@
+dataset=tc, docnum=18, docid=116, wordct=384
+
+[--- conv start ---]
+agent_1: Hello, do you watch Netflix?
+agent_2: Hi there, I do sometimes, but don't have an account myself.  How about you?
+agent_1: I do have an account. Did you know from 9pm-12am, Netflix accounts for 33% of all the bandwidth in North America?
+agent_2: Holy cow, that is so much bandwidth during those peak hours. 
+agent_1: I agree. Netflix and YouTube make up half of the peak internet traffic in North America.
+agent_2: That is crazy, and I think it will even continue to grow in the future. 
+agent_1: Netflix is worth $2 billion right now.
+agent_2: Wow, I think back in 2000, they proposed to Blockbuster that it should use Netflix as it's online service, they laughed at the offer. 
+agent_1: I bet lol. Netflix was started due to a $40 late fee incurred by Reed Hastings.
+agent_2: Yeah old Reed didn't like those late fees, look what happened since then. 
+agent_1: Do you like Tom Cruise?
+agent_2: Yeah I do, I really like 80's Tom Cruise movies.  How about you?
+agent_1: Me too. I love Top Gun.
+agent_2: Yeah Top Gun was one of his best for sure, I always like risky business. 
+agent_1: Tom Cruise once threatened Tom Kruse who is the inventory of the hoverboard.
+agent_2: I heard that!  I think he should have just endorsed it and gone along with it.
+agent_1: I agree. Tom Cruise spent two years learning Japanese and swordplay in preparation for a film.
+agent_2: That is dedication, I have always admired him for his acting skills. 
+agent_1: Me too. He has a $10 million dollar underground bunker to protect himself from aliens.
+agent_2: That is the weird side of him, I remember when he went kind of nuts on the Ellen show years back. 
+agent_1: It was great chatting.
+
+[--- conv end ---]
+
+
+[--- row start ---]
+rowid 330, Topic_words
+[--- topic start ---]Netflix, Blockbuster, Youtube, Eminem, comic book artist, YouTube, Starship troopers, country music, rap, fender stratocaster[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 330, Flan_topic
+[--- topic start ---]Entertainment[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 330, Flan_topic2
+[--- topic start ---]Black music[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 356, Topic_words
+[--- topic start ---]Netflix, Blockbuster, YouTube, HBO, netflix, peak internet traffic, internet traffic, Amazon, Incredibles 2, Youtube[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 356, Flan_topic
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 356, Flan_topic2
+[--- topic start ---]Business[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 360, Topic_words
+[--- topic start ---]Iceland, Netflix, Incredibles 2, Kung Fu Hustle, sun, video games, Amazon, Pink Floyd, history, YouTube[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 360, Flan_topic
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 360, Flan_topic2
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 394, Topic_words
+[--- topic start ---]youtube, netflix, internet, traffic, search, blockbuster, google, engine, facebook, service[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 394, Flan_topic
+[--- topic start ---]YouTube[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 394, Flan_topic2
+[--- topic start ---]Business[--- topic end ---]
+[--- row end ---]
+

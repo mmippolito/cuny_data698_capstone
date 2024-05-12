@@ -1,0 +1,150 @@
+dataset=ee, docnum=78, docid=4128, wordct=134
+
+[--- conv start ---]
+Last night
+Lady, c'mon...you're just one of the guys!  Wanna go to Treasures tonight?
+
+From: Margaret Allen@ENRON on 10/13/2000 08:39 AM
+To: John Arnold/HOU/ECT@ECT
+cc:  
+Subject: Last night
+Hey Buster John,
+Despite the X's you received last night for your ill behavior, I wanted to 
+thank you for dinner because I had a great time.  Although, I do take 
+personal offense to being flipped off at least 5 times in the course of 
+dinner. Watch your manners when your with a lady!
+I hope you have a great Friday and today is one of your top 5 too!
+MSA
+[--- conv end ---]
+
+
+[--- row start ---]
+rowid 9999, Human_keywords
+[--- topic start ---]lady,  treasure,  night,  dinner,  behavior,  offense,  manners[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 9999, Human_friendly_topic
+[--- topic start ---]Playful post-date message[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 88, Topic_words
+[--- topic start ---]plan, iSubject, HOU, change, receive, forward, ECT, AMiTo, follow, need[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 88, Flan_topic
+[--- topic start ---]iSubject[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 88, Flan_topic2
+[--- topic start ---]iSubject[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 91, Topic_words
+[--- topic start ---]division, balance, crease, residuum, residual, residue, stratum, class, course, level[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 91, Flan_topic
+[--- topic start ---]metal[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 91, Flan_topic2
+[--- topic start ---]Mortal[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 240, Topic_words
+[--- topic start ---]HOU, ECT, Allen, forward, K, iSubject, ECT@ECT, John, Mike, Phillip[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 240, Flan_topic
+[--- topic start ---]ECT@ECT[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 240, Flan_topic2
+[--- topic start ---]Electricity healing[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 243, Topic_words
+[--- topic start ---]draw, hold, change, run, guide, lead, take in, carry, consider, convey[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 243, Flan_topic
+[--- topic start ---]Sports[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 243, Flan_topic2
+[--- topic start ---]Actor[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 256, Topic_words
+[--- topic start ---]need, HOU, iSubject, year, work, Phillip, forward, ECT, gas, plan[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 256, Flan_topic
+[--- topic start ---]iSubject[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 256, Flan_topic2
+[--- topic start ---]iSubject[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 259, Topic_words
+[--- topic start ---]cast, change, break, discover, hold, lead, take in, carry, extend, form[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 259, Flan_topic
+[--- topic start ---]Break[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 259, Flan_topic2
+[--- topic start ---]Break dance[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 312, Topic_words
+[--- topic start ---]enroxgate, enron, planters, crunch, video, sportsline, beaver, football, john, mark[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 312, Flan_topic
+[--- topic start ---]Sports[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 312, Flan_topic2
+[--- topic start ---]Football[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 316, Topic_words
+[--- topic start ---]you, go, dinner, saturday, trails, game, message, great, on, up[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 316, Flan_topic
+[--- topic start ---]game[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 316, Flan_topic2
+[--- topic start ---]Game[--- topic end ---]
+[--- row end ---]
+

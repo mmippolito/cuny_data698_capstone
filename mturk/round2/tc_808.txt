@@ -1,0 +1,88 @@
+dataset=tc, docnum=2, docid=808, wordct=473
+
+[--- conv start ---]
+agent_1: I have always loved reading. I think that reading has always been a gateway to knowledge for me.
+agent_2: Yes and knowledge is power. I mostly listen to audio books now though. What about you?
+agent_1: I love audiobooks. Did you know that in the first 3 months of 2016 audiobook sales rose 35%?!
+agent_2: I can believe it! I'm suprised with the rise of technology that there are more libraries than there are McDonald in the US. 
+agent_1: I think that libraries provide technology access to people who aren't fortunate enough to have it at home.
+agent_2: I agree, im in one right now. lol! 
+agent_1: I think the concept of a "library of things" is amazing. Allowing people to check out other things, such as sewing machines, or seeds, is wonderful. Allows short term usage rather than a long term commitment. 
+agent_2: Yeah that's a neat concept. You know there was a man falsely accused and spent 10 years working on his proving innocence. 
+agent_1: I think Law Libraries in Prisons are wonderful
+agent_2: I do too, something for them to elevate there minds. If you publish a book in Norway the government will but 1000 copies.
+agent_1: That is very interesting. I wish I had learned braile. I think that would be a very interesting tactile way to read. 
+agent_2: Apparently Michael Jackson released an audio book. Did you know that?
+agent_1: I had no idea!
+agent_2: Yeah and steven spielberg directed it for ET, however that works
+agent_1: Had you heard that Jim Dale performed 300 voices for the Harry Potter books?
+agent_2: Yeah he had to be reminded of them ever time they were on set. that's a lot of voice overs.
+agent_1: Audiobooks were initially started as a project to help those that are blind. I love to listen to them while I drive though! They are so useful!
+agent_2: Man i listen to them when i'm doing just about anything. I hear in that same year were sale rose that e-book sales declined. 
+agent_1: I can believe that. I would much rather have an audiobook over e book. 
+agent_2: Me too! Wow there were quite a few stars who narrated the dungeons and dragons character Diizzt do'urden.
+agent_1: I saw that! I am not sure who that is though. 
+
+[--- conv end ---]
+
+
+[--- row start ---]
+rowid 330, Topic_words
+[--- topic start ---]Facebook, Pink Floyd, pointe shoes, ballet, Canada, abstract art, horror movies, Run DMC, identical twins, Led Zeppelin[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 330, Flan_topic
+[--- topic start ---]Music[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 330, Flan_topic2
+[--- topic start ---]Film[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 356, Topic_words
+[--- topic start ---]Netflix, Blockbuster, YouTube, HBO, netflix, peak internet traffic, internet traffic, Amazon, Incredibles 2, Youtube[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 356, Flan_topic
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 356, Flan_topic2
+[--- topic start ---]Business[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 360, Topic_words
+[--- topic start ---]Iceland, Netflix, Incredibles 2, Kung Fu Hustle, sun, video games, Amazon, Pink Floyd, history, YouTube[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 360, Flan_topic
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 360, Flan_topic2
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 394, Topic_words
+[--- topic start ---]military, star, tennis, starship, troopers, amazon, king, wikileaks, ice, polo[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 394, Flan_topic
+[--- topic start ---]World[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 394, Flan_topic2
+[--- topic start ---]wikileaks[--- topic end ---]
+[--- row end ---]
+

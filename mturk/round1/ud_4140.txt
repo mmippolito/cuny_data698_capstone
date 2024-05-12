@@ -1,0 +1,147 @@
+dataset=ud, docnum=0, docid=4140, wordct=143
+
+[--- conv start ---]
+Dasda: anyone else have trouble viewing ebooks in ubuntu?
+Squideshi: In what format and with what application?
+Dasda: exe and with ebookpro
+Squideshi: The ebook is in EXE format?
+Dasda: yes, thats why i wouldnt mind it if i could even get the exe to unpack but cant even do that
+Squideshi: EXE files are usually for Microsoft operating systems. Where did you get the file?
+Dasda: vgsports
+Dasda: Squdeshi i can give u the link for download. it is only 1.8megs
+Squideshi: Don't give me the link for download. Give me the link for the webpage that has the link for download.
+Dasda: i message it to you cause I was unsure if we are allowed to post links here
+
+[--- conv end ---]
+
+
+[--- row start ---]
+rowid 9999, Human_keywords
+[--- topic start ---]ebook,  ubuntu,  ebookpro,  exe,  microsoft,  download[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 9999, Human_friendly_topic
+[--- topic start ---]ebooks on Ubuntu[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 64, Topic_words
+[--- topic start ---]instal, install, use, ubuntu, work, run, try, os, thank, download[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 64, Flan_topic
+[--- topic start ---]Ubuntu[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 64, Flan_topic2
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 67, Topic_words
+[--- topic start ---]supply, run, fix, lead, carry, establish, convey, act, provide, work[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 67, Flan_topic
+[--- topic start ---]Business[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 67, Flan_topic2
+[--- topic start ---]Actor[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 192, Topic_words
+[--- topic start ---]internet, log, problem, link, install, use, connect, work, server, eye[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 192, Flan_topic
+[--- topic start ---]Internet[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 192, Flan_topic2
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 195, Topic_words
+[--- topic start ---]action, rise, activity, gear up, generate, interpret, put in, rig, examine, instal[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 195, Flan_topic
+[--- topic start ---]Activism[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 195, Flan_topic2
+[--- topic start ---]Act[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 208, Topic_words
+[--- topic start ---]connection, require, connect, problem, internet, link, work, Microsoft, bus, log[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 208, Flan_topic
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 208, Flan_topic2
+[--- topic start ---]Computer[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 211, Topic_words
+[--- topic start ---]record, approximate, audition, gauge, go for, put on, operating, bible, religious text, religious writing[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 211, Flan_topic
+[--- topic start ---]Religion[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 211, Flan_topic2
+[--- topic start ---]Aegir[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 304, Topic_words
+[--- topic start ---]just, ubuntu, know, firebox, install, use, yes, try, like, work[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 304, Flan_topic
+[--- topic start ---]Ubuntu[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 304, Flan_topic2
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 308, Topic_words
+[--- topic start ---]install, firebox, ubuntu, tried, trying, try, file, cant, server, windows[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 308, Flan_topic
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 308, Flan_topic2
+[--- topic start ---]Windows[--- topic end ---]
+[--- row end ---]
+

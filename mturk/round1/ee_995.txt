@@ -1,0 +1,147 @@
+dataset=ee, docnum=54, docid=995, wordct=131
+
+[--- conv start ---]
+Jacques,
+Still trying to close the loop on the $15,000 of extensions.  Assuming that 
+it is worked out today or tomorrow, I would like to get whatever documents 
+need to be
+completed to convey the partnership done.  I need to work with the engineer 
+and architect to get things moving.  I am planning on  writing a personal 
+check to the engineer while I am setting up new accounts.  Let me know if 
+there is a reason I should not do this.
+Thanks for all your help so far.  Between your connections and expertise in 
+structuring the loan, you saved us from getting into a bad deal.
+Phillip
+[--- conv end ---]
+
+
+[--- row start ---]
+rowid 9999, Human_keywords
+[--- topic start ---]extension,  document,  engineer,  architect,  accounts,  deal[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 9999, Human_friendly_topic
+[--- topic start ---]Contract extension[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 88, Topic_words
+[--- topic start ---]work, HOU, look, forward, Allen, Phillip, today, eye, check, tear[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 88, Flan_topic
+[--- topic start ---]iSubject[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 88, Flan_topic2
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 91, Topic_words
+[--- topic start ---]take in, hold, fix, learn, aim, determine, study, train, draw, sustain[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 91, Flan_topic
+[--- topic start ---]Study[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 91, Flan_topic2
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 240, Topic_words
+[--- topic start ---]iSubject, need, HOU, tear, year, gas, eye, John, look, market[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 240, Flan_topic
+[--- topic start ---]Business[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 240, Flan_topic2
+[--- topic start ---]iSubject[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 243, Topic_words
+[--- topic start ---]hold, draw, take in, meet, hit, lead, realise, realize, acquire, aim[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 243, Flan_topic
+[--- topic start ---]Battleground[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 243, Flan_topic2
+[--- topic start ---]Sports[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 256, Topic_words
+[--- topic start ---]need, HOU, iSubject, year, work, Phillip, forward, ECT, gas, plan[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 256, Flan_topic
+[--- topic start ---]iSubject[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 256, Flan_topic2
+[--- topic start ---]iSubject[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 259, Topic_words
+[--- topic start ---]cast, change, break, discover, hold, lead, take in, carry, extend, form[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 259, Flan_topic
+[--- topic start ---]Break[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 259, Flan_topic2
+[--- topic start ---]Break dance[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 312, Topic_words
+[--- topic start ---]company, ii, share, offer, iiphillip, value, project, iii, huntley, need[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 312, Flan_topic
+[--- topic start ---]Business[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 312, Flan_topic2
+[--- topic start ---]iii[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 316, Topic_words
+[--- topic start ---]lease, rent, loan, paid, documents, amount, total, cost, additional, savings[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 316, Flan_topic
+[--- topic start ---]Business[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 316, Flan_topic2
+[--- topic start ---]Business[--- topic end ---]
+[--- row end ---]
+

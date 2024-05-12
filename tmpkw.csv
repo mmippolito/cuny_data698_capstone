@@ -1,0 +1,85 @@
+Dataset,Doc_id,Snippet,Topic_words,Human_topic,Relevant
+chitchat,595.0,,"browser,college,major,BYU,student,media,marketing",,0
+chitchat,793.0,,"smell,friends,hangout,rpg,game,play,munchkin,board,role",,0
+chitchat,2462.0,,"pizza,restaurant,topping,pepper,santa cruz,laguna,spain,jalapeno,papa john,little caesar,spicy,mexico",,0
+chitchat,793.0,,"book,bank,florence,machine,panic,disco,music,jk rowling,rick riordan",,0
+chitchat,793.0,,"south korea,metal,listen,music,rap,hiphop,rb,classic,freshman,san franciso,arizona,provo",,0
+chitchat,793.0,,"jaezo,homework,math,algebra,ymca,hippie,mission,story",,0
+chitchat,793.0,,"apr,snapchat,stock market,dow,fbi,conspiracy,moon landing,lizard,flat earth",,0
+chitchat,2462.0,,"devline,grenade,bang,texas,utah,american fork,biking,singing,food,cooking",,0
+chitchat,793.0,,"admiration,parents,sisters,russia,moscow,girlfriend,computer,code,engagement,internship,korea,summer,citizenship,rock climbing",,0
+chitchat,595.0,,"night,leaderboard,prize,truffle,spot,talents,powers,win",,0
+chitchat,793.0,,"beach,disney,movie,frozen,beauty and the beast,peter pan,little mermaid,sammee,hike,fitness,car,drive,pinterest,mission,major,anthropology,picture,take",,0
+chitchat,793.0,,"computers,vote,jobs,citizens,sophia,saudi arabia,robot,logical,ai,alexa,compute,human,train",,0
+chitchat,33.0,,"saipan,marianna islands,wwii,ww2,scuba,korea,asia,shanghai,chong qing,chinese,esl,china",,0
+chitchat,793.0,,"doc marten,tall,girl,braces,teeth,friend,car,battery,mormon,nap,sleep,willpower,health",,0
+chitchat,2462.0,,"saint george,ocean,california,redwood,shasta,panda,chocolate,cookie,coast,beautiful,frozen,lake",,0
+chitchat,793.0,,"username,elena cool,ball,cool,weight,overweight,clothes,underweight,awesome,sibling,glitch,computer",,0
+chitchat,793.0,,"irish,dna,ancestry,africa,percentage,brazil,french,spanish,portuguese,russian,major,molier,europe,subtitle,byu,service,project,society,community",,0
+chitchat,793.0,,"semester,summer,nevada,downtown,vegas,light,sister,sibling,gap,cousin,child,young,dance",,0
+chitchat,793.0,,"ron weasly,vehicle,class,weather,degree,sunny,winter,sport,seattle,nevada,national forest,pilchuck,flattery,distance,hobby,fiction,history,constitution,commentary,handmaid,harry potter,wheel of time,robert jordan,book,page,hufflepuff,ravenclaw",,0
+chitchat,2462.0,,"andy samberg,benedict cumberbatch,exam,twitter,birb,florida,graduation,college,anniversary,grandparent,canada,trek,san diego,orego,drive,friends",,0
+topical chat,793.0,,"hobby,learn,earth,history,atmosphere,helium,human,astronomy,alien,life,lightning,strike,temperature,core",,0
+topical chat,1772.0,,"hbo,netflix,amazon prime,hulu,phone,sprint,trial,free,blockbuster,subscription,Friday,Saturday,amazon,bezos,tv",,0
+topical chat,33.0,,"reading,knowledge,power,audio,book,library,audiobook,michal jackson,jim dale,harry potter,steven spielberg,et,listen,diizzt,braile",,0
+topical chat,2480.0,,"music,soul,linkin park,album,beatles,floyd,dark side of the moon,nwa,stones,reel big fish,play,rights,record,japan,twin,rap",,0
+topical chat,2480.0,,"hip-hop,drive,70s,genre,music,mcdonalds,muhamed ali,boxer,vanilla ice,speed reading,read,anee jones,braille,starship troopers,sci-fi,novel,game of thrones,andrew johnson",,0
+topical chat,1772.0,,"google,amazon,gift card,stock,search,map,traffic,android,india,pakistan,prime,cable,streaming,service,china,alibaba,jeff bezos,deliver,package",,0
+topical chat,1772.0,,"dutch,speed,travel,ride,japan,beautiful,highway,iceland,politics,policician,kentucky,duel,hurrican,australia,scientist,engineer",,0
+topical chat,2480.0,,"drake,music,degrassi,next generation,2007,1972,why we can't live together,hotlinebling,grammy,rap,performance,eminem,rapper,korean,compliment,outkast,2004,bruno mars,women,female,nominee,artist",,0
+topical chat,2480.0,,"facebook,2004,zuckerbert,internet,profile,legal,co-founder,platform,worth,germany,german shepherd,animal,species,matthew bellamy,cat,muse,smash,guitar,eddie van halen,solo,pink floyd,studio",,0
+topical chat,1772.0,,"baseball,team,card,dollar,batting,fielding,kickball,canada,home,plate,japan,showmanship,ireland,anya,game of thrones,reading,ender's game,military,starship troopers",,0
+topical chat,1772.0,,"space,podcast,end,world,earth,dense,sun,human,evolve,extinct,gas,ambassador,lightning,alien",,0
+topical chat,1772.0,,"aspen,colorado,denver,meal,bagel,cheesecake,protein,carbs,egg,bacon,bagel,ski,winter,chicago,las vegas,bird,pigeon,dodo,migrate,alaska,mexico",,0
+topical chat,2480.0,,"internet,honey badger,2011,viral,video,lawsuit,clothing,violate,court,circulate,youtube,elephant,search engine,dating,website,cute,animal,google,clip,ai,cat",,0
+topical chat,1772.0,,"incredibles,nephew,2004,oscar,spider man,movie,artist,pixar,nintendo,japan,2018,2003,bill nye,science guy,netflix,steve martin,jack black,ryan reynolds",,0
+topical chat,1772.0,,"incredibles,sarah vowell,violet parr,pixar,brad bird,artist,edna mode,jack black,bill murray,comedy central,1989,3rd rock,seinfeld,friends,frazier,1997,golden globe,python,programming.language,humor",,0
+topical chat,1772.0,,"willie mccovey,1962,yankees,baseball,memory,mistake,world series,peanuts,comics,home run,career,bittersweet,canadian league,babe ruth,1926",,0
+topical chat,1772.0,,"copy,cat,clone,esp,tiger,wild,asia,pet,us,roosevelt,bear,hyena,animal,japan,boulder,germany,right,loch ness monster,scottish,zebrafish,dog,amphibian,reptile,bird,mammal,fish,ectothermic,walk,companionship,communication,exercise,predator,shark,silurian",,0
+topical chat,2698.0,,"intrument,music,piano,lamb,mary,chopsticks,aluminum,airship,hindenburg,plantetary,hey jude,paul mccartney,jupiter,moon,alien,earth,history,oxygen,universe,century,helium",,0
+topical chat,1772.0,,"netflix,bandwidth,north america,account,youtube,crazy,blockbuster,tom cruise,movie,risky business,hoverboard,japanese,swordplay,underground,bunker,alien,ellen",,0
+topical chat,1772.0,,"bambi,horror,movie,stephen king,disney,tramatic,calorie,the shining,sound,frequency,fear,human,sci-fi,creepy,jarring,metallic,noise,enzyme,sound,rib",,0
+ubuntu dialogue,1326.0,,"ubuntu,graphics,screen,usb,cd,boot,bug,update,apt-get,upgrade,package,fix",,0
+ubuntu dialogue,8699.0,,"virt-manager,tasksel,bit,vista,manager,windwos,install,vm,xp",,0
+ubuntu dialogue,1326.0,,"ubuntu,planner,apt-get,xubuntu,dependency,xfe,gnome,organizer,google,telephone,private,info,paranoid,military,evil",,0
+ubuntu dialogue,8699.0,,"launchpad,experimental,easy,ppa,scenario,upgrade,repository,pokerth,update,app",,0
+ubuntu dialogue,1326.0,,"unity,ubuntu,display,mirror,setting,app,ccsm,default,virtual,size,minimum,maximum,dual,two,1080i,monitor,fglrx,driver,launcher",,0
+ubuntu dialogue,8699.0,,"cartridge,bash,gnome,terminal,command,newline,carriage,return",,0
+ubuntu dialogue,3439.0,,"lucid,maverick,ubuntu,computer,skill,software,upgrade,tool,install,live,cd,reboot",,0
+ubuntu dialogue,3439.0,,"download,ubuntu,pidgin,xchat,install,windows,software,center",,0
+ubuntu dialogue,1326.0,,"free,software,opensource,fair,developer,product,carpentry,duplicate,produce,replicate,item,sell,cost,linux,windows",,0
+ubuntu dialogue,1326.0,,"cpu,free,driver,nvidia,glx,quan-time,switch,priya,script,x86,folder,conf,file,cd,query,boot,log",,0
+ubuntu dialogue,8699.0,,"pastebin,sources,list,update,manager,cdrom,permission,sudo,coment,line",,0
+ubuntu dialogue,8699.0,,"synaptic,package,manager,melodie,face,anyoneofus,sir,7zip,compression,algorithm,file,directory,point,tar",,0
+ubuntu dialogue,8699.0,,"index,removable,device,locate,find,file,database,updatedb,ahrddisk,program,man,cron",,0
+ubuntu dialogue,8699.0,,"semitones,spaceghostc2c,umount,sdc1,media,firewire,mount,mountpoint,mtab,pastebin",,0
+ubuntu dialogue,8699.0,,"resolution,xrandr,pastebin,screen,default,module,glx,device,nvidia,nologo",,0
+ubuntu dialogue,8699.0,,"panel,ccsm,click,unity,setting,desktop,plugin,launcher,dropbox,dodge",,0
+ubuntu dialogue,8699.0,,"autologin,password,nasa,desktop,xorg,xfce,window,manager,gdm,video",,0
+ubuntu dialogue,8699.0,,"chromium,download,embedded,video,extension,fvd,culprit,interactivepython",,0
+ubuntu dialogue,1326.0,,"ip,command,ubuntu,windows,pc,laptop,network,connection,greeting",,0
+ubuntu dialogue,1326.0,,"fail,error,image,kernel,linux,wtf,boot,unetbootin,partition,os",,0
+ubuntu dialogue,8020.0,,"ebook, ubuntu, ebookpro, exe, microsoft, download",,0
+ubuntu dialogue,6366.0,,"vnc, remote, video, x11, xvfb, display",,0
+enron email,,,"san marcos,construction,project,pro forma,phllip,allen",,0
+enron email,205.0,,"schwab,interest,rate,money,pocket,mortgage,refinance,loan",,0
+enron email,205.0,,"office,Friday,wade,philip,mary,richards",,0
+enron email,205.0,,"agreement,language,request,finance,construction,project,loan,cost,lower,estimate,rent,exhibit,architecture,consultant,fee,engineer,appraisor",,0
+enron email,205.0,,"help,assistant,ina rangel,phillip,allen",,0
+enron email,205.0,,"balance,lucy,rent,deposit,jeff smith,raise,property,tenant,manager,phillip",,0
+enron email,4128.0,,"phillip,raincheck",,0
+enron email,205.0,,"nytimes,offer,nextcard,visa,e-mail,offer,permission,registration,congratulations,cardholder",,0
+enron email,4128.0,,"greg,thorse,phillip,spreadsheet,error,logic,project,irr,pay,increase,cash,flow,renovation,quality,construction,proforma,sutters,sage,crossing,waters,bluff springs,south park,sunrise canyon,seabreeze,harvard place",,0
+enron email,205.0,,"a/c,cost,wal-martk,ralph's,appliance,fax,machine,steelman,office,lucy",,0
+enron email,4128.0,,"larry,document,claudia,confirm,phllip",,0
+enron email,205.0,,"andy,john,electronic,system,west,desk,ice,dynergy,assistant,password,id",,0
+enron email,205.0,,"fire,program,houston,boost,morale,portland,spetember,trip,cycle,winner,bashing",,0
+enron email,205.0,,"past,busy,baby,girl,december,evelyn,soccer,t-ball,cole,coordination,fitness,maintenance,hunter,memorial park,Saturday,mountain biking,trip,lunch,job",,0
+enron email,205.0,,"inquiry,fill,yourself,sign,dawn,kenne",,0
+enron email,205.0,,"thanksgiving,family,travels,meeting,story,role,introduction,commitment,project,kirk,mcdaniel,sme,simulation,expert,video,shoot,story,ann",,0
+enron email,205.0,,"parallon,microturbine,power,generation,deal,national,account,gas,price,kwh,customer,opportunity,turbine,install,requirement,burnertip,commodity,transport,buck,buckner",,0
+enron email,4128.0,,"payout,investment,builders,profit,repaid,split,equity,construction,schedule,budget",,0
+enron email,205.0,,"notes,outlook,migration,survey,fill,computer,pda,email,calendar,address,book,messaging,distribution,database,vacation,leave",,0
+enron email,205.0,,"overdue,access,request,mat,smith,pending,approval",,0
+enron email,3418.0,,"extension, document, engineer, architect, accounts, deal",,0
+enron email,3418.0,,"lady, treasure, night, dinner, behavior, offense, manners",,0

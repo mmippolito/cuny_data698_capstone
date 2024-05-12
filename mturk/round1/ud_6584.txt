@@ -1,0 +1,147 @@
+dataset=ud, docnum=249, docid=6584, wordct=217
+
+[--- conv start ---]
+aanonymouss: In order to run VNC (like vino, remote desktop) do I need to have a video card installed?  I booted up w/o vid card and I can ssh into the box but cannot vnc in and it seems like x11 applications aren't running
+fryguy: you'll need to run XvFB or something
+fryguy: or forward through a different X server via X11 forwarding or xdmcp
+aanonymouss: thanks I'll look into that
+aanonymouss: any idea why x11 apps aren't running?
+fryguy: you can't run X apps without an X server, and you can't run the X server that is configured out of the box in ubuntu without a video display
+aanonymouss: would it change anything if I originally setup the box with x11 running and had everything running, then ripped out my gfx card and now am trying to run everything?
+fryguy: no
+aanonymouss: so if there's no video card, x server wont start?
+fryguy: the one out of the box in ubuntu won't, which is why you should look into XvFB or another X server, or just run the X server on another machine
+
+[--- conv end ---]
+
+
+[--- row start ---]
+rowid 9999, Human_keywords
+[--- topic start ---]vnc,  remote,  video,  x11,  xvfb,  display[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 9999, Human_friendly_topic
+[--- topic start ---]Running VNC on Ubuntu without video card[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 64, Topic_words
+[--- topic start ---]try, start, thank, use, server, work, problem, set, download, file[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 64, Flan_topic
+[--- topic start ---]System[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 64, Flan_topic2
+[--- topic start ---]Computer[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 67, Topic_words
+[--- topic start ---]supply, run, fix, lead, carry, establish, convey, act, provide, work[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 67, Flan_topic
+[--- topic start ---]Business[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 67, Flan_topic2
+[--- topic start ---]Actor[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 192, Topic_words
+[--- topic start ---]auto, instal, system, ubuntu, set, install, use, bio, burn, r[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 192, Flan_topic
+[--- topic start ---]Computer[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 192, Flan_topic2
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 195, Topic_words
+[--- topic start ---]figure out, lick, puzzle out, solve, do work, incline, crop, cultivate, hunt down, lock[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 195, Flan_topic
+[--- topic start ---]Puzzle Out[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 195, Flan_topic2
+[--- topic start ---]Plant[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 208, Topic_words
+[--- topic start ---]boot, way, os, machine, GRUB, ctrl, i386, osx, ruin, studio[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 208, Flan_topic
+[--- topic start ---]Macbook[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 208, Flan_topic2
+[--- topic start ---]osx[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 211, Topic_words
+[--- topic start ---]cultivate, give out, break down, conk out, die, fail, go bad, concord, operate, prevail[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 211, Flan_topic
+[--- topic start ---]Plant[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 211, Flan_topic2
+[--- topic start ---]Breakdown[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 304, Topic_words
+[--- topic start ---]boot, grub, partition, ubuntu, windows, install, drive, cd, run, driver[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 304, Flan_topic
+[--- topic start ---]Ubuntu[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 304, Flan_topic2
+[--- topic start ---]Disintegrate[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 308, Topic_words
+[--- topic start ---]nvidia, invidia, graphics, ubuntu, gdm, install, boot, 1280x1024, drivers, gox[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 308, Flan_topic
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 308, Flan_topic2
+[--- topic start ---]Golf[--- topic end ---]
+[--- row end ---]
+

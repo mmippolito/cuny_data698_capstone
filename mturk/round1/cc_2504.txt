@@ -1,0 +1,164 @@
+dataset=cc, docnum=9, docid=2504, wordct=357
+
+[--- conv start ---]
+UserB: hello!
+UserA: Sup
+UserB: hey whoa that's cool well we could either end this chat or continue for more points up to you
+UserA: Haha matched twice I'm good to go for both
+UserB: WOOO nice this happens a lot at night
+UserA: At night? That you have two chats going on with the same person haha?
+UserB: LOL yeah like i keep getting the same person over and over again
+UserA: Yeah. Have you been on here for long?
+UserB: i just started like two days ago haha how about you?
+UserA: Haha I started the first day this round but maybe skip a few
+UserB: ahh wow how far are you in the leaderboards?
+UserA: Oh, top 10
+UserB: GEEEZ
+UserA: You?
+UserB: you're bound to get something cool then struggling in the 20s ahha how'd you hear about it?
+UserA: Um I think I got an email. I can't really remember Haha so are you really striving to get up there? I might lose it, I don't have as much time
+UserB: ahhh yeah I got an email way late in the game so i'm trying to just catch up I really wanna win something substantial yknow
+UserA: Haha what is substantial?
+UserB: not the truffles LOL i just read the prizes list last night and idk if I really just wanna be receiving truffles
+UserA: Haha yeah nice
+UserB: whoever is holding that #1 spot is so good
+UserA: No kidding. That's crazy
+UserB: maybe it's just one of the developers trying to get as many people going as possible
+UserA: Yeah maybe. Hopefully haha. It's intimidating
+UserB: it's a lil crazy that's for sure
+UserA: So do you have any hidden talents or powers?
+UserB: hmmm that's a good questin question
+
+[--- conv end ---]
+
+
+[--- row start ---]
+rowid 9999, Human_keywords
+[--- topic start ---]night, leaderboard, prize, truffle, spot, talents, powers, win[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 9999, Human_friendly_topic
+[--- topic start ---]Competition[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 16, Topic_words
+[--- topic start ---]people, chat, eye, tear, thing, love, try, look, tell, talk[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 16, Flan_topic
+[--- topic start ---]People[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 16, Flan_topic2
+[--- topic start ---]eros[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 19, Topic_words
+[--- topic start ---]experience, take in, work, lead, deal, aim, reach, throw, receive, hold[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 19, Flan_topic
+[--- topic start ---]Work[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 19, Flan_topic2
+[--- topic start ---]Business[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 96, Topic_words
+[--- topic start ---]watch, happen, end, movie, way, people, talk, chat, try, use[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 96, Flan_topic
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 96, Flan_topic2
+[--- topic start ---]Business[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 99, Topic_words
+[--- topic start ---]substantiate, propose, cross, instruct, nail, overhear, apprehend, attract, collar, collect[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 99, Flan_topic
+[--- topic start ---]Adult[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 99, Flan_topic2
+[--- topic start ---]Sports[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 112, Topic_words
+[--- topic start ---]continue, window, happen, contest, exit, lose, chat, Dang, wonder, match[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 112, Flan_topic
+[--- topic start ---]People[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 112, Flan_topic2
+[--- topic start ---]Lighter[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 115, Topic_words
+[--- topic start ---]compact, compress, condense, constrict, repel, shrink, sign, sign on, sign up, squeeze[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 115, Flan_topic
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 115, Flan_topic2
+[--- topic start ---]squeezing[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 288, Topic_words
+[--- topic start ---]like, yeah, just, really, oh, haha, know, think, ha, good[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 288, Flan_topic
+[--- topic start ---]People[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 288, Flan_topic2
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 292, Topic_words
+[--- topic start ---]im, am, you, go, about, doing, haha, get, things, be[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 292, Flan_topic
+[--- topic start ---]People[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 292, Flan_topic2
+[--- topic start ---]affaire[--- topic end ---]
+[--- row end ---]
+

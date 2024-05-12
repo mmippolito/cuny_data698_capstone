@@ -1,0 +1,152 @@
+dataset=cc, docnum=12, docid=2276, wordct=290
+
+[--- conv start ---]
+UserB: Traveling the world
+UserA: I would travel the world, go scuba diving, and maybe explore places I've never been before.
+UserB: Where would you go to first?
+UserA: I would probably go to Saipan. It's a place in the Marianna Islands that has some really cool scuba sites with WWII wrecks. What about you?
+UserB: I would go to Korea first because my really old great grandma lives there and I want to visit her
+UserA: That's cool that you're part Korean! Have you been there before?
+UserB: I have I was actually just there about 2 years ago Have you traveled abroad before?
+UserA: Yeah I've actually spent half of my life living in China. I traveled around Asia a lot while I was there.
+UserB: That's so cool! I would love to travel around Asia
+UserA: When I was young, I spent an Easter in Korea with some cousins. I don't remember it very well, but I remember Korea being very clean.
+UserB: It is. My mom and sister spent a month or so in China and afterwards they came to Korea and they said it was much cleaner
+UserA: I lived in Shanghai and a city called Chong Qing. Shanghai is significantly cleaner because there are a ton of foreigners there.
+UserB: That makes sense. My roommate is from Shanghai!
+UserA: Really? That's really cool. Is she Chinese?
+UserB: Yeah, she's here for ESL classes
+
+[--- conv end ---]
+
+
+[--- row start ---]
+rowid 9999, Human_keywords
+[--- topic start ---]saipan, marianna islands, wwii, ww2, scuba, korea, asia, shanghai, chong qing, chinese, esl, china[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 9999, Human_friendly_topic
+[--- topic start ---]World travel[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 16, Topic_words
+[--- topic start ---]people, class, world, remember, end, bit, year, come, sound, send[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 16, Flan_topic
+[--- topic start ---]People[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 16, Flan_topic2
+[--- topic start ---]kinfolk[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 19, Topic_words
+[--- topic start ---]experience, take in, work, lead, deal, aim, reach, throw, receive, hold[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 19, Flan_topic
+[--- topic start ---]Work[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 19, Flan_topic2
+[--- topic start ---]Business[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 96, Topic_words
+[--- topic start ---]Seattle, weather, Belgium, Germany, car, Asia, world, Utah, love, Same[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 96, Flan_topic
+[--- topic start ---]college[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 96, Flan_topic2
+[--- topic start ---]human being[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 99, Topic_words
+[--- topic start ---]account, delineate, deposit, desex, desexualise, desexualize, fasten, fixate, gear up, lay[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 99, Flan_topic
+[--- topic start ---]World[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 99, Flan_topic2
+[--- topic start ---]Music[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 112, Topic_words
+[--- topic start ---]hour, park, city, water, mountain, school, brother, parent, sister, live[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 112, Flan_topic
+[--- topic start ---]Family[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 112, Flan_topic2
+[--- topic start ---]Sports[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 115, Topic_words
+[--- topic start ---]Information, lowerclassman, underclassman, bum, blank, infinite, outer space, quad, abode, arse[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 115, Flan_topic
+[--- topic start ---]project[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 115, Flan_topic2
+[--- topic start ---]abode[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 288, Topic_words
+[--- topic start ---]like, just, think, yeah, haha, people, don, good, really, cool[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 288, Flan_topic
+[--- topic start ---]People[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 288, Flan_topic2
+[--- topic start ---]People[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 292, Topic_words
+[--- topic start ---]fun, things, work, would, about, go, think, going, ive, do[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 292, Flan_topic
+[--- topic start ---]Work[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 292, Flan_topic2
+[--- topic start ---]field of study[--- topic end ---]
+[--- row end ---]
+

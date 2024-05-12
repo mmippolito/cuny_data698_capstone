@@ -1,0 +1,77 @@
+dataset=ud, docnum=249, docid=6584, wordct=217
+
+[--- conv start ---]
+aanonymouss: In order to run VNC (like vino, remote desktop) do I need to have a video card installed?  I booted up w/o vid card and I can ssh into the box but cannot vnc in and it seems like x11 applications aren't running
+fryguy: you'll need to run XvFB or something
+fryguy: or forward through a different X server via X11 forwarding or xdmcp
+aanonymouss: thanks I'll look into that
+aanonymouss: any idea why x11 apps aren't running?
+fryguy: you can't run X apps without an X server, and you can't run the X server that is configured out of the box in ubuntu without a video display
+aanonymouss: would it change anything if I originally setup the box with x11 running and had everything running, then ripped out my gfx card and now am trying to run everything?
+fryguy: no
+aanonymouss: so if there's no video card, x server wont start?
+fryguy: the one out of the box in ubuntu won't, which is why you should look into XvFB or another X server, or just run the X server on another machine
+
+[--- conv end ---]
+
+
+[--- row start ---]
+rowid 336, Topic_words
+[--- topic start ---]Ubuntu, ubuntu, internet, live boots, linum books, USB stick, IDE, AHCI, monkey logic, vac[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 336, Flan_topic
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 336, Flan_topic2
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 368, Topic_words
+[--- topic start ---]ubuntu, um, firebox, 14 inch screen, 20 kbps speed, 4, Bluetooth, Canonical jump, Dual booting, FlintWestWood[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 368, Flan_topic
+[--- topic start ---]Ubuntu[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 368, Flan_topic2
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 372, Topic_words
+[--- topic start ---]ubuntu, Ethernet, um, wifi, Ubuntu, 14 inch screen, 20 kbps speed, 4, Aspire One, Atheros Communications[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 372, Flan_topic
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 372, Flan_topic2
+[--- topic start ---]film industry[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 396, Topic_words
+[--- topic start ---]ubuntu, linux, package, firebox, manager, grub, file, windows, card, internet[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 396, Flan_topic
+[--- topic start ---]Linux[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 396, Flan_topic2
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+

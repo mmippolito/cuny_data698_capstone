@@ -1,0 +1,77 @@
+dataset=ee, docnum=54, docid=995, wordct=131
+
+[--- conv start ---]
+Jacques,
+Still trying to close the loop on the $15,000 of extensions.  Assuming that 
+it is worked out today or tomorrow, I would like to get whatever documents 
+need to be
+completed to convey the partnership done.  I need to work with the engineer 
+and architect to get things moving.  I am planning on  writing a personal 
+check to the engineer while I am setting up new accounts.  Let me know if 
+there is a reason I should not do this.
+Thanks for all your help so far.  Between your connections and expertise in 
+structuring the loan, you saved us from getting into a bad deal.
+Phillip
+[--- conv end ---]
+
+
+[--- row start ---]
+rowid 342, Topic_words
+[--- topic start ---]pricing, Price, Clark County PUD, gas prices, November NP15, low load year, normal load year, heat rate, forward, analyst program[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 342, Flan_topic
+[--- topic start ---]Business[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 342, Flan_topic2
+[--- topic start ---]Business[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 380, Topic_words
+[--- topic start ---]Transwestern Pipeline, Capacity Constraint, Creekside Builders, promotion, web site, gas prices, Area Rugs, Clark County PUD, Enron Broadband Services, NEWGen[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 380, Flan_topic
+[--- topic start ---]Business[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 380, Flan_topic2
+[--- topic start ---]Construction[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 384, Topic_words
+[--- topic start ---]Enron, Transwestern Pipeline, conference call, gas prices, Capacity Constraint, Creekside Builders, HP, web site, Accenture, Area Rugs[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 384, Flan_topic
+[--- topic start ---]Energy[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 384, Flan_topic2
+[--- topic start ---]Construction[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 398, Topic_words
+[--- topic start ---][--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 398, Flan_topic
+[--- topic start ---][--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 398, Flan_topic2
+[--- topic start ---][--- topic end ---]
+[--- row end ---]
+

@@ -1,0 +1,77 @@
+dataset=ud, docnum=0, docid=4140, wordct=143
+
+[--- conv start ---]
+Dasda: anyone else have trouble viewing ebooks in ubuntu?
+Squideshi: In what format and with what application?
+Dasda: exe and with ebookpro
+Squideshi: The ebook is in EXE format?
+Dasda: yes, thats why i wouldnt mind it if i could even get the exe to unpack but cant even do that
+Squideshi: EXE files are usually for Microsoft operating systems. Where did you get the file?
+Dasda: vgsports
+Dasda: Squdeshi i can give u the link for download. it is only 1.8megs
+Squideshi: Don't give me the link for download. Give me the link for the webpage that has the link for download.
+Dasda: i message it to you cause I was unsure if we are allowed to post links here
+
+[--- conv end ---]
+
+
+[--- row start ---]
+rowid 336, Topic_words
+[--- topic start ---]crontab, RapidSVN, SubVersion, Subversion, Tortoise SVN, gui client, firebox, channel guidelines, at command manual page, ubuntu programs[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 336, Flan_topic
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 336, Flan_topic2
+[--- topic start ---]Computer programme[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 368, Topic_words
+[--- topic start ---]confit file, synaptic package manager, internet connection, xubuntu, linum, 32bit, 386, 64, 64bit, 64bit system[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 368, Flan_topic
+[--- topic start ---]Linux[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 368, Flan_topic2
+[--- topic start ---]Linux[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 372, Topic_words
+[--- topic start ---]Ubuntu, Linux, confit file, irssi, synaptic package manager, Karmic, Windows XP, command, command line, crontab[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 372, Flan_topic
+[--- topic start ---]Linux[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 372, Flan_topic2
+[--- topic start ---]Personal letter[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 396, Topic_words
+[--- topic start ---]ubuntu, linux, package, firebox, manager, grub, file, windows, card, internet[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 396, Flan_topic
+[--- topic start ---]Linux[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 396, Flan_topic2
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+

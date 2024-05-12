@@ -1,0 +1,82 @@
+dataset=cc, docnum=12, docid=2276, wordct=290
+
+[--- conv start ---]
+UserB: Traveling the world
+UserA: I would travel the world, go scuba diving, and maybe explore places I've never been before.
+UserB: Where would you go to first?
+UserA: I would probably go to Saipan. It's a place in the Marianna Islands that has some really cool scuba sites with WWII wrecks. What about you?
+UserB: I would go to Korea first because my really old great grandma lives there and I want to visit her
+UserA: That's cool that you're part Korean! Have you been there before?
+UserB: I have I was actually just there about 2 years ago Have you traveled abroad before?
+UserA: Yeah I've actually spent half of my life living in China. I traveled around Asia a lot while I was there.
+UserB: That's so cool! I would love to travel around Asia
+UserA: When I was young, I spent an Easter in Korea with some cousins. I don't remember it very well, but I remember Korea being very clean.
+UserB: It is. My mom and sister spent a month or so in China and afterwards they came to Korea and they said it was much cleaner
+UserA: I lived in Shanghai and a city called Chong Qing. Shanghai is significantly cleaner because there are a ton of foreigners there.
+UserB: That makes sense. My roommate is from Shanghai!
+UserA: Really? That's really cool. Is she Chinese?
+UserB: Yeah, she's here for ESL classes
+
+[--- conv end ---]
+
+
+[--- row start ---]
+rowid 324, Topic_words
+[--- topic start ---]weddings, engagements, Europe, China, Korea, instagram, India, Italy, Japan, Thailand[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 324, Flan_topic
+[--- topic start ---]weddings[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 324, Flan_topic2
+[--- topic start ---]World[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 344, Topic_words
+[--- topic start ---]China, India, Africa, Europe, Germany, Greece, Italy, Korea, Brazil, Albania[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 344, Flan_topic
+[--- topic start ---]World[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 344, Flan_topic2
+[--- topic start ---]World[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 348, Topic_words
+[--- topic start ---]artificial intelligence, Black Panther, Infinity War, Artificial Intelligence, Brazil, Captain America, China, India, Iron Man, Lord of the Rings[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 348, Flan_topic
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 348, Flan_topic2
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 392, Topic_words
+[--- topic start ---]design, intelligence, music, artificial, computer, man, industrial, video, art, class[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 392, Flan_topic
+[--- topic start ---]Science/Tech[--- topic end ---]
+[--- row end ---]
+
+[--- row start ---]
+rowid 392, Flan_topic2
+[--- topic start ---]Video[--- topic end ---]
+[--- row end ---]
+
